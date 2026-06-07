@@ -122,7 +122,7 @@ This project demonstrates:
 * Hybrid keyword + vector search
 
 ## Author
-## Author
+
 
 **Samir Ali**
 
